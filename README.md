@@ -23,4 +23,6 @@ As an IT Office Assistant at Runtime Solutions, I focus on managing IT service o
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 📜 Certifications[
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1d7245e6-ebba-4b7b-970f-ad1d214a1c91" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+## 📜 Certifications
+
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a644-882ab8f61ebd/image.png)](https://www.credly.com/users/piyush-prasad)
