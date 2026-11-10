@@ -22,7 +22,6 @@ As an IT Office Assistant at Runtime Solutions, I focus on managing IT service o
 [![](https://komarev.com/ghpvc/?username=ppiyushhhhh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 📜 Certifications[
 ## 📜 Certifications
 
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a644-882ab8f61ebd/image.png)](https://www.credly.com/users/piyush-prasad)
