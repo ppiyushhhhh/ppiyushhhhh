@@ -22,5 +22,5 @@ As an IT Office Assistant at Runtime Solutions, I focus on managing IT service o
 [![](https://komarev.com/ghpvc/?username=ppiyushhhhh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 📜 Certifications
-https://www.credly.com/badges/1d7245e6-ebba-4b7b-970f-ad1d214a1c91/public_url
+## 📜 Certifications[
+https://coursera.org/share/a8ca37abcb39a9c711e7c0edb6f9a9be
