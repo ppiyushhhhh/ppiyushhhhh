@@ -23,5 +23,4 @@ As an IT Office Assistant at Runtime Solutions, I focus on managing IT service o
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 📜 Certifications
-[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ee60043a-1df6-4f6f-9f39-a6d84a41f08e.jpeg?v=1789325824)](https://www.boot.dev/certificates/ee60043a-1df6-4f6f-9f39-a6d84a41f08e)
-[![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/95bd562b-2042-4730-960e-2aa345cd68ea.jpeg?v=1789841611)](https://www.boot.dev/certificates/95bd562b-2042-4730-960e-2aa345cd68ea)
+https://www.credly.com/badges/1d7245e6-ebba-4b7b-970f-ad1d214a1c91/public_url
